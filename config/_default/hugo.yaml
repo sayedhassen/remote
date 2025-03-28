@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Sayed Hassen Theme
+title: Sayed Hassen Page
 # Website URL
 baseURL: 'https://sayedhassen.github.io/remote/'
 
