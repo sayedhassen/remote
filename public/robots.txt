@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sayedhassen.github.io/remote/sitemap.xml
